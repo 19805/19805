@@ -2,7 +2,7 @@
 
 
 - 👀 Eu estou interessado em desenvolvimento web
-- 🌱 Eu atualmente estou estudando linguagem HTML, CSS3, Javascript
+- 🌱 Eu atualmente estou estudando linguagem HTML 5, CSS3, Javascript
 - 📫 Contate-me no e-mail: elvismaia4521@gmail.com
 
 <!---
